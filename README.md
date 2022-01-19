@@ -1,1 +1,0 @@
-# Create-a-VdcTemplate-and-Add-it-to-All-Organizations
